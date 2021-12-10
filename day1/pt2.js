@@ -1,4 +1,4 @@
-const input = require("./day1_input");
+const input = require("./input");
 
 let increaseCount = 0;
 

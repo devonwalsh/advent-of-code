@@ -1,4 +1,4 @@
-const input = require("./day2_input");
+const input = require("./input");
 
 const split_input = input.map((item) => {
   return item.split(" ");
